@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Resturant-Fast-Food/static/css/main.df29f081.chunk.css",
+    "main.js": "/Resturant-Fast-Food/static/js/main.c118bfa6.chunk.js",
+    "main.js.map": "/Resturant-Fast-Food/static/js/main.c118bfa6.chunk.js.map",
+    "runtime-main.js": "/Resturant-Fast-Food/static/js/runtime-main.f73aaed1.js",
+    "runtime-main.js.map": "/Resturant-Fast-Food/static/js/runtime-main.f73aaed1.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Resturant-Fast-Food/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.78114acc.chunk.js": "/Resturant-Fast-Food/static/js/2.78114acc.chunk.js",
+    "static/js/2.78114acc.chunk.js.map": "/Resturant-Fast-Food/static/js/2.78114acc.chunk.js.map",
+    "static/js/3.ca0bbe69.chunk.js": "/Resturant-Fast-Food/static/js/3.ca0bbe69.chunk.js",
+    "static/js/3.ca0bbe69.chunk.js.map": "/Resturant-Fast-Food/static/js/3.ca0bbe69.chunk.js.map",
+    "index.html": "/Resturant-Fast-Food/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Resturant-Fast-Food/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.df29f081.chunk.css.map": "/Resturant-Fast-Food/static/css/main.df29f081.chunk.css.map",
+    "static/js/2.78114acc.chunk.js.LICENSE.txt": "/Resturant-Fast-Food/static/js/2.78114acc.chunk.js.LICENSE.txt",
+    "static/media/FB_IMG_16361034522853629.6db61351.jpg": "/Resturant-Fast-Food/static/media/FB_IMG_16361034522853629.6db61351.jpg",
+    "static/media/FB_IMG_16361034763275534.cc2a1174.jpg": "/Resturant-Fast-Food/static/media/FB_IMG_16361034763275534.cc2a1174.jpg",
+    "static/media/FB_IMG_16361034891168318.b1b0cf48.jpg": "/Resturant-Fast-Food/static/media/FB_IMG_16361034891168318.b1b0cf48.jpg",
+    "static/media/expensive.6449ceef.jpg": "/Resturant-Fast-Food/static/media/expensive.6449ceef.jpg",
+    "static/media/margherita.683bc9bb.jpg": "/Resturant-Fast-Food/static/media/margherita.683bc9bb.jpg",
+    "static/media/pedrotechspecial.425951cb.jpg": "/Resturant-Fast-Food/static/media/pedrotechspecial.425951cb.jpg",
+    "static/media/pexels-caleb-oquendo-3023479.b82ed91a.jpg": "/Resturant-Fast-Food/static/media/pexels-caleb-oquendo-3023479.b82ed91a.jpg",
+    "static/media/pexels-engin-akyurt-1552641.529b73f9.jpg": "/Resturant-Fast-Food/static/media/pexels-engin-akyurt-1552641.529b73f9.jpg",
+    "static/media/pexels-rania-alhamed-2454533.0149dee1.jpg": "/Resturant-Fast-Food/static/media/pexels-rania-alhamed-2454533.0149dee1.jpg",
+    "static/media/pineapple.a01ab9be.jpg": "/Resturant-Fast-Food/static/media/pineapple.a01ab9be.jpg",
+    "static/media/pizza.21a1098f.jpeg": "/Resturant-Fast-Food/static/media/pizza.21a1098f.jpeg",
+    "static/media/pizzaLogo1.fcdc67e6.png": "/Resturant-Fast-Food/static/media/pizzaLogo1.fcdc67e6.png",
+    "static/media/vegan.52cbfe9e.jpg": "/Resturant-Fast-Food/static/media/vegan.52cbfe9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f73aaed1.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.78114acc.chunk.js",
+    "static/css/main.df29f081.chunk.css",
+    "static/js/main.c118bfa6.chunk.js"
+  ]
+}
